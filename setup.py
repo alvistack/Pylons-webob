@@ -26,7 +26,7 @@ docs_extras = [
 
 setup(
     name="WebOb",
-    version="2.0.0dev0",
+    version="1.8.9",
     description="WSGI request and response object",
     long_description=README + "\n\n" + CHANGES,
     classifiers=[
