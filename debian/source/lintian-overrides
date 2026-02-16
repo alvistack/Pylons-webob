@@ -1,0 +1,5 @@
+python-webob source: file-without-copyright-information
+python-webob source: no-debian-changes
+python-webob source: source-contains-prebuilt-windows-binary
+python-webob source: source-is-missing
+python-webob source: source-package-encodes-python-version
